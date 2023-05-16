@@ -11,7 +11,7 @@ const About = () => {
             <div class="row justify-content-md-center align-self-center">
                 <p class="biggg">React App + CRUD Application + Realtime Database</p>
             </div>
-            <p class="para smol">I'm John Vic B. Bautista from ACT-2G. This is my react application with crud application and realtime database from firebase.</p>
+            <p class="para smol"> I'm John Vic B. Bautista from ACT-2G. This is my react application with crud application and realtime database from firebase.</p>
         </div>
     </div>
     <div class="row justify-content-md-center p-0">
